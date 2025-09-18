@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-IMAGE_NAME="ghcr.io/votre-utilisateur/votre-repo"
+IMAGE_NAME="ghcr.io/mojimbo80/my-app"
 IMAGE_TAG="latest" # ou le SHA du dernier commit si vous l'utilisez
 DEPLOYMENT_FILE="deployment.yml"
 

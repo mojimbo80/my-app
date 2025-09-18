@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mon-app-container
-        image: ghcr.io/votre-utilisateur/votre-repo:latest # L'image à déployer
+        image: ghcr.io/mojimbo80/my-app:latest # L'image à déployer
         ports:
         - containerPort: 8080
 ---
